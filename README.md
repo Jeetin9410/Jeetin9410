@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning in Android app development along with Python Projects.**
 
-- 💬 Ask me about **Android, Java, Kotlin, Firebase, MVVM, Python, ML and DL.**
+- 💬 Ask me about **Data Structures and Algorithms, Android, Java, Kotlin, Firebase, MVVM, Python, ML and DL.**
 
 - 📫 How to reach me **kumaranand8126@gmail.com**
 
