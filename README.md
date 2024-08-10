@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetin9410&label=Profile%20views&color=0e75b6&style=flat" alt="jeetin9410" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning in Android app development along with Python Projects.**
+- 🌱 I’m currently learning **KMP Android Apps development.**
 
-- 💬 Ask me about **Data Structures and Algorithms, Android, Java, Kotlin, Firebase, MVVM, Python, ML and DL.**
+- 💬 Ask me about **Data Structures and Algorithms, Android, Java, Kotlin, Firebase, MVVM**
 
 - 📫 How to reach me **kumaranand8126@gmail.com**
 
@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeetin9410&show_icons=true&locale=en&layout=compact" alt="jeetin9410" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetin9410&show_icons=true&locale=en" alt="jeetin9410" /></p>
+
